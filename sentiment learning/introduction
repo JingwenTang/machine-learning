@@ -1,0 +1,5 @@
+Learn to identify the attitudes of reviews sentences. 
+Compare different ensemble learning algorithms with different base classifiers.
+Two ensemble learning algorithms are required (Bagging and AdaBoost.M1); 
+and two base classifiers are required (SVM and Decision Tree). 
+Thus, you should at least compare 4 combinations: Bagging + DTree, Bagging + SVM, AdaBoost.M1 + DTree, AdaBoost.M1 + SVM.
